@@ -110,7 +110,7 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 ---
 
 **Developed by**: [@zeel0014](https://github.com/zeel0014)  
-**Project Link**: [Multiple-Disease-Prediction](https://github.com/zeel0014/Multiple-Disease-Prediction)
+**GitHub Repository**: [Multiple-Disease-Prediction](https://github.com/zeel0014/Multiple-Disease-Prediction)  
 **Live Demo**: [Hugging Face Space](https://huggingface.co/spaces/zeel0014/Multiple_Disease_Prediction)
 
 ---
