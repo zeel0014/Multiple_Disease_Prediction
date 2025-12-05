@@ -5,6 +5,12 @@
 
 A Streamlit web application for predicting multiple diseases including **Diabetes**, **Heart Disease**, and **Kidney Disease** using machine learning algorithms. This project provides an intuitive interface for users to input medical information and receive instant disease predictions.
 
+## 🚀 Live Demo
+
+**Try the app now**: [Multiple Disease Prediction on Hugging Face](https://huggingface.co/spaces/zeel0014/Multiple_Disease_Prediction)
+
+The application is deployed and running on Hugging Face Spaces. Click the link above to use it instantly without any installation!
+
 ## 📋 Table of Contents
 - [Introduction](#-introduction)
 - [Features](#-features)
