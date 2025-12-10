@@ -1,7 +1,6 @@
 # Multiple Disease Prediction using Machine Learning
 
-<img width="1848" height="613" alt="Capture" src="https://github.com/user-attachments/assets/5e12d98d-14bc-4409-9d4f-6d0e66cafeb7" />
-
+<img width="1859" height="529" alt="Capture" src="https://github.com/user-attachments/assets/7b00feb1-f866-48ec-93e5-1022f0d0cc76" />
 
 A Streamlit web application for predicting multiple diseases including **Diabetes**, **Heart Disease**, and **Kidney Disease** using machine learning algorithms. This project provides an intuitive interface for users to input medical information and receive instant disease predictions.
 
